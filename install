@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Now, you are going to install all requiremenst for this script"
+pip install colorama
+sleep 2s
+echo "Now, you can run the Script"
